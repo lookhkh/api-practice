@@ -12,6 +12,7 @@ public class MemberAddFormDto {
         Member member = new Member();
         member.setMemberName(memberAddFormDto.getMemberName());
         member.setMemberAge(memberAddFormDto.getMemberAge());
+        System.out.println('1');
         return member;
     }
 }
