@@ -8,6 +8,7 @@ class HelloYesApplicationTests {
 
 	@Test
 	void contextLoads() {
+		int t =1;
 	}
 
 }
